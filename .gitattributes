@@ -1,0 +1,2 @@
+*.csv filter=lfs diff=lfs merge=lfs -text
+datasets/.ipynb_checkpoints/KCPD_Crime_Data_KC_OpenDataPortal_2019_to_2024_20250403-checkpoint.csv filter=lfs diff=lfs merge=lfs -text
