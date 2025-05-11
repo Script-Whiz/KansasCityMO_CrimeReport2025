@@ -5,4 +5,6 @@ Kansas City, MO Crime Report
 The Dataset came from here:
  https://data.kcmo.org/Crime/KCPD-Crime-Data-2019-to-2024/egkn-fji8/about_data
 
- 
+datasets/KCPD_Crime_Data_KC_OpenDataPortal_2019_to_2024_20250403.csv
+
+This dataset is for the years 2019-2024. 
